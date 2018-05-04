@@ -75,10 +75,10 @@
         console.log(firstTrainTime);
         console.log(freQuency);
 
-        // $("#trainname").val("");
-        // $("#destination").val("");
-        // $("#firsttraintime").val("");
-        // $("#frequency").val("");
+        $("#trainname").val("");
+        $("#destination").val("");
+        $("#firsttraintime").val("");
+        $("#frequency").val("");
     });
 
 //  Add Train schedule 
