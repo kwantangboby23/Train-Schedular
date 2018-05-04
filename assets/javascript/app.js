@@ -21,10 +21,7 @@
   var minutesAway = "";
 
 // Set-up military time 
-    $("#firsttraintime").timepicker({
-        timeFormat: "HH:mm"
-        
-    });
+    
 
 // button for saving train data, and add train data
   
